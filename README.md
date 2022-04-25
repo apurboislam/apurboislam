@@ -1,6 +1,6 @@
 <!-- Github README -->
 <p align="center"><a href="https://github.com/softexapurbo">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=softexapurbo&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=apurboislam&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <!--<a href="https://github.com/softexapurbo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softexapurbo&layout=compact&theme=react&hide_border=true" />
 </a></p>-->
@@ -24,14 +24,14 @@
 <li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
 -->
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/softexapurbo"><img width=550 src="https://github-profile-trophy.vercel.app/?username=softexapurbo&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/apurboislam"><img width=550 src="https://github-profile-trophy.vercel.app/?username=apurboislam&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/softexapurbo"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=softexapurbo&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/apurboislam"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=apurboislam&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/softexapurbo"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://facebook.com/softexapurbol"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://youtube.com/10MinuteCoding"><img align="left" title="10 Minute Coding" alt="10 Minute Coding" width="30px" src="assets/10mc.png" /></a>
-<a href="https://facebook.com/softexsoftware"><img align="left" title="Softex, INC" alt="Softex, INC" width="30px" src="assets/softex.png" /></a>
+<a href="https://github.com/apurboislam"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://facebook.com/apurboislam69"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://youtube.com/c/10MinuteCoding"><img align="left" title="10 Minute Coding" alt="10 Minute Coding" width="30px" src="assets/10mc.png" /></a>
+<a href="https://facebook.com/pixeware"><img align="left" title="Softex, INC" alt="Softex, INC" width="30px" src="assets/softex.png" /></a>
 
