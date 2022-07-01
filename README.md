@@ -33,5 +33,5 @@
 <a href="https://github.com/apurboislam"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://facebook.com/apurboislam69"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://youtube.com/c/10MinuteCoding"><img align="left" title="10 Minute Coding" alt="10 Minute Coding" width="30px" src="assets/10mc.png" /></a>
-<a href="https://facebook.com/pixeware"><img align="left" title="Softex, INC" alt="Softex, INC" width="30px" src="assets/softex.png" /></a>
+<a href="https://facebook.com/bitsoulapp"><img align="left" title="Softex, INC" alt="Softex, INC" width="30px" src="assets/softex.png" /></a>
 
