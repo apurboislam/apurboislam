@@ -6,15 +6,15 @@
 <!--<a href="https://github.com/softexapurbo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softexapurbo&layout=compact&theme=react&hide_border=true" />
 </a></p>-->
 
-<h2><b><i>Howdy , it's Apurbo Islam 👋</i></b></h2>
+<h2><b><i>Hey , it's Apurbo Islam 👋</i></b></h2>
 <b><i>💻 I'm a Student & Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 😌 <i>Muslim</i></li>
 <li> 😐 <i>Studying at Class-1</i></li>
 <li> 😴 <i>Love Sleeping</i></li>
-<li> 🙂 <i>Born Single</i></li>
-<li> ♨ <i>Trying to learn PHP & Js</i></li>
+<li> 🦋 <i>In love with a beautiful girl</i></li>
+<li> ♨ <i>Trying to learn Dart & Node.Js</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 <!--<h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
