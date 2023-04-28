@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **I'm not Single 🤭**
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer;Tech+Blogger)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/10-minute-coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10-minute-coding" height="30" width="40" /></a>
