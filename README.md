@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Apurbo Islam</h1>
-<h3 align="center">A passionate frontend developer from Banglasdesh</h3>
+<h3 align="center">A passionate android developer from Banglasdesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3eb8d13ad3c2ab9479c78c71fbfaafa6dc0864fca2f0abce2ff03a255dd638f9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323437353438392f73637265656e73686f74732f31303935383334312f6d656469612f31613432663135363131373239343537306363643934663062373961373339352e676966">
 
 
