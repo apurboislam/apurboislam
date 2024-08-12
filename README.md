@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **APS Pay**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Node.Js & Kotlin**
 
 - 💬 Ask me about **Android Development**
 
