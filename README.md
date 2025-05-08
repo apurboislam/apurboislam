@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Android Developer | Backend Engineer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*PGFH2ml8nRtgF_q0.gif" alt="Apurbo Islam Banner" />
+  <img src="https://raw.githubusercontent.com/apurboislam/apurboislam/refs/heads/main/assets/android.gif" alt="Apurbo Islam Banner" />
 </p>
 
 ---
