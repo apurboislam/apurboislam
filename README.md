@@ -1,46 +1,122 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://github.com/apurboislam)
-
-
 <h1 align="center">Hi 👋, I'm Apurbo Islam</h1>
-<h3 align="center">A passionate full-stack android developer from Banglasdesh</h3>
+<h3 align="center">Full-Stack Android Developer | Backend Engineer | UI/UX Designer</h3>
 
-
-
-- 🔭 I’m currently working on **APS Tech**
-
-- 🌱 I’m currently learning **AI**
-
-- 💬 Ask me about **Android Development**
-
-- 📫 How to reach me **apurbo@apstech.com.bd**
-
-- ⚡ Fun fact **I'm not Single 🤭**
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+an+Android+Developer;and+Student.;)](https://git.io/typing-svg)
-
----
-
-## 📱 Connect with me:
-<p align="left">
-<a href="https://stackoverflow.com/users/10-minute-coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10-minute-coding" height="30" width="40" /></a>
-<a href="https://fb.com/apurboislam69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apurboislam69" height="30" width="40" /></a>
-<a href="https://instagram.com/apurboislam69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apurboislam69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/10minutecoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="10minutecoding" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*PGFH2ml8nRtgF_q0.gif" alt="Apurbo Islam Banner" />
 </p>
 
 ---
 
-## 🈲 Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚀 About Me
+
+* 🔭 Currently working at **APS Tech**, focusing on developing scalable Android applications and robust backend systems.
+* 🌱 Exploring the realms of **Artificial Intelligence** to integrate intelligent features into mobile applications.
+* 💬 Ask me about **Android Development**, **Backend Engineering**, or **UI/UX Design**.
+* 📫 Reach me at: **[apurbo@apstech.com.bd](mailto:apurbo@apstech.com.bd)**
+* ⚡ Fun fact: I'm not single 🤭
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=apurboislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=apurboislam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apurboislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Tech Stack
+
+#### Mobile App Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+#### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge\&logo=realm\&logoColor=white)
+
+#### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+
+#### UI/UX & Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+
+#### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
-## 👥 Profile Views
-[![Visitor Count](https://count.getloli.com/@Apurbo%20Islam?name=Apurbo+Islam&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/)
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apurboislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Apurbo's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurboislam&theme=dark&hide_border=false" alt="Apurbo's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurboislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Apurbo's Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/10-minute-coding" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://fb.com/apurboislam69" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/apurboislam69" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/c/10minutecoding" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+* **Artificial Intelligence**: Delving into machine learning algorithms to enhance app functionalities.
+* **Advanced Backend Architectures**: Exploring microservices and serverless architectures for scalable backend solutions.
+
+---
+
+### 🎯 Goals
+
+* Develop AI-integrated mobile applications.
+* Contribute to open-source projects in the Android and backend communities.
+* Share knowledge through tutorials and tech talks.
+
+---
+
+### 📊 Visitor Count
+
+![Visitor Count](https://count.getloli.com/get/@apurboislam?theme=rule34)
+
+---
+
+Feel free to explore my repositories and connect with me for collaborations or discussions on technology and development.
