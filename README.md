@@ -63,26 +63,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurboislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Apurbo's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurboislam&theme=dark&hide_border=false" alt="Apurbo's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurboislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Apurbo's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurboislam&custom_title=Last%2030%20Days%20Activity&theme=github&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
