@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurbo Islam</h1>
-<h3 align="center">Full-Stack Android Developer | Backend Engineer | UI/UX Designer</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/apurboislam/apurboislam/refs/heads/main/assets/android.gif" alt="Apurbo Islam Banner" />
-</p>
+<h3 align="center">Backend Architect</h3>
 
 ---
 
